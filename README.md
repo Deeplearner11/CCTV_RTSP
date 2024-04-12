@@ -8,3 +8,10 @@ Person detection model: It implements a person detection model using haar_cascad
 Overlay and grayscale conversion: The code overlays detections using rectangles (cv2.rectangle) and converts the frame to grayscale using cv2.cvtColor before storing it.
 
 Stores output video for 20 seconds: It defines frame_count based on FPS and video duration (20 seconds) and uses cv2.VideoWriter to write processed frames to an output video.
+
+
+https://github.com/Deeplearner11/CCTV_RTSP/assets/87230145/688dbf85-356e-4b0b-a718-1903bd4f6b6d
+
+
+
+
